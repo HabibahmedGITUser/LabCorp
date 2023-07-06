@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "username": "RJ",
+    "firstName": "Shaik",
+    "lastName": "Shaik",
+    "email": "RRRR@gmail.com",
+    "password": "23dwewe",
+    "phone": "2324431",
+    "userStatus": 0
+  },
+  {
+    "id": 2,
+    "username": "Hussain",
+    "firstName": "Shaik",
+    "lastName": "LLL",
+    "email": "RRRR@gmail.com",
+    "password": "23dwewe",
+    "phone": "2324431",
+    "userStatus": 0
+  },
+  {
+    "id": 3,
+    "username": "Hussain12",
+    "firstName": "Shaik12",
+    "lastName": "LLL12",
+    "email": "RRRR@gmail.com",
+    "password": "23dwewe2",
+    "phone": "232443122",
+    "userStatus": 1
+  }
+]
